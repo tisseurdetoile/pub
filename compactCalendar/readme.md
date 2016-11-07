@@ -13,9 +13,7 @@ CompactCalendar 2017 FR ZONE A.pdf	| Version du calendrier 2017 pour la Zone A
 CompactCalendar 2017 FR ZONE B.pdf	| Version du calendrier 2017 pour la Zone B
 CompactCalendar 2017 FR ZONE C.pdf	| Version du calendrier 2017 pour la Zone C
 
-Le compactCalendar de dave Seah http://davidseah.com/ en version française. avec les Zone A/B/C et les jour ferié.
-
 # Bibliographie
-[Le calendrier compact de Dave Seah](http://davidseah.com/node/compact-calendar/)
-[Jour férié](https://www.joursferies.fr/)
-[Vacances scolaire](http://www.education.gouv.fr/cid87910/calendrier-scolaire-pour-les-annees-2015-2016-2016-2017-2017-2018.html)
+* [Le calendrier compact de Dave Seah](http://davidseah.com/node/compact-calendar/)
+* [Jour férié](https://www.joursferies.fr/)
+* [Vacances scolaire](http://www.education.gouv.fr/cid87910/calendrier-scolaire-pour-les-annees-2015-2016-2016-2017-2017-2018.html)
