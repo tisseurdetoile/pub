@@ -10,13 +10,13 @@
 
 # Détail des fichiers
 
-| Fichier                                                       | Détail                                    |
-| ------------------------------------------------------------- | ----------------------------------------- |
-| [2021 FR LibreOffice](CompactCalendar2021-fr.ots)             | Version du calendrier 2021 Libre Office   |
-| [2021 FR Excel](CompactCalendar2021-fr.xltx)                  | Version du calendrier 2021 Excel          |
-| [2021 FR ZONE A.pdf](CompactCalendar2021%20FR%20ZONE%20A.pdf) | Version du calendrier 2021 pour la Zone A |
-| [2021 FR ZONE B.pdf](CompactCalendar2021%20FR%20ZONE%20B.pdf) | Version du calendrier 2021 pour la Zone B |
-| [2021 FR ZONE C.pdf](CompactCalendar2021%20FR%20ZONE%20C.pdf) | Version du calendrier 2021 pour la Zone C |
+| Fichier                                                                                                          | Détail                                    |
+| ---------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| [2021 FR LibreOffice](https://github.com/tisseurdetoile/pub/raw/main/compactCalendar/CompactCalendar2021-fr.ots) | Version du calendrier 2021 Libre Office   |
+| [2021 FR Excel](https://github.com/tisseurdetoile/pub/raw/main/compactCalendar/CompactCalendar2021-fr.xltx)      | Version du calendrier 2021 Excel          |
+| [2021 FR ZONE A.pdf](CompactCalendar2021%20FR%20ZONE%20A.pdf)                                                    | Version du calendrier 2021 pour la Zone A |
+| [2021 FR ZONE B.pdf](CompactCalendar2021%20FR%20ZONE%20B.pdf)                                                    | Version du calendrier 2021 pour la Zone B |
+| [2021 FR ZONE C.pdf](CompactCalendar2021%20FR%20ZONE%20C.pdf)                                                    | Version du calendrier 2021 pour la Zone C |
 
 # Bibliographie
 
