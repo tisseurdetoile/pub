@@ -8,6 +8,8 @@
 
 > Traduction et adaptation en français du compactCalendar de Dave Seah http://davidseah.com/. Avec matérialisation des congés des zones A/B/C des années 2021 et 2020.
 
+Vous pouvez trouver un générateur en ligne [ici](http://github.tisseurdetoile.net/compactcalendarvue3/) avec ces sources [là](https://github.com/tisseurdetoile/compactcalendarvue3)
+
 # Détail des fichiers
 
 | Fichier                                                                                                          | Détail                                    |
